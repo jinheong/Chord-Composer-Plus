@@ -1,6 +1,7 @@
 # Chord-Composer-Plus
-A simple web-based application for creating and editing chord progressions.
+A simple web-based application for creating and editing chord progressions. 
 ## Features
+* The panel size is designed for smartphone screen display
 * Select from a variety of chord qualities and root notes
 * Add and remove chords from the progression grid
 * Edit chord progression patterns and style settings
