@@ -11,6 +11,9 @@ A simple web-based application for creating and editing chord progressions.
 3. Add chords to the progression grid by clicking the "Add Chord" button.
 4. Edit chord progression patterns and style settings as needed.
 5. Export audio files (.wav) by clicking the "Export" button.
+
+![description](pic/APP_display.png)
+
 ## Dependencies
 * Modern web browser (Chrome, Firefox, etc.)
 * HTML5 and CSS3 capabilities
