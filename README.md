@@ -1,7 +1,8 @@
 # Chord-Composer-Plus
 A simple web-based application for creating and editing chord progressions. 
 ![description](pic/APP_display.png)
-Demonstration video
+
+## Demonstration video
 https://youtu.be/nraT7xernys
 
 ## Features
