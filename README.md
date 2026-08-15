@@ -6,11 +6,11 @@ A simple web-based application for creating and editing chord progressions.
 * Edit chord progression patterns and style settings
 * Export audio files in WAV format
 ## Usage
-1. Open index.html in a web browser to access the application.
+1. Open chord-composer-plus.html in a web browser to access the application.
 2. Select a root note and chord quality from the dropdown menus.
 3. Add chords to the progression grid by clicking the "Add Chord" button.
 4. Edit chord progression patterns and style settings as needed.
-5. Export audio files by clicking the "Export" button.
+5. Export audio files (.wav) by clicking the "Export" button.
 ## Dependencies
 * Modern web browser (Chrome, Firefox, etc.)
 * HTML5 and CSS3 capabilities
