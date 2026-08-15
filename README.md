@@ -1,5 +1,9 @@
 # Chord-Composer-Plus
 A simple web-based application for creating and editing chord progressions. 
+![description](pic/APP_display.png)
+Demonstration video
+https://youtu.be/nraT7xernys
+
 ## Features
 * The panel size is designed for smartphone screen display
 * Select from a variety of chord qualities and root notes
@@ -15,9 +19,6 @@ A simple web-based application for creating and editing chord progressions.
 5. Select rhythm patterns from STYLE.
 6. Click the "Play" button to play the chord progression repeatedly followed by ending sequence.
 (7. Export audio files (.wav) by clicking the "Export" button.)
-
-![description](pic/APP_display.png)
-
 ## Dependencies
 * Modern web browser (Chrome, Firefox, etc.)
 * HTML5 and CSS3 capabilities
